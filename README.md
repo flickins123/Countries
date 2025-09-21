@@ -24,9 +24,16 @@ Android application that fetches and displays countries data from a JSON API.
 - OkHttp for network requests
 - Gson for JSON parsing
 
+## Requirements
+
+**No Dependency Injection** - Pure Android, no Dagger  
+**Scrollable List** - RecyclerView with all countries  
+**Error Handling** - Network errors, timeouts, device rotation  
+**Clean Code** - MVVM architecture with ViewModel 
+
 ## API
 
-Data source: https://gist.githubusercontent.com/peymano-wmt/32dcb892b06648910ddd40406e37fdab/raw/db25946fd77c5873b0303b858e861ce724e0dcd0/countries.json
+Data source: Used source link given in Instructions doc.
 
 ## Dependencies
 
@@ -35,3 +42,9 @@ Data source: https://gist.githubusercontent.com/peymano-wmt/32dcb892b06648910ddd
 - RecyclerView
 - SwipeRefreshLayout
 - ViewModel & LiveData
+
+## Screenshots
+
+- [App Screenshot 1](https://drive.google.com/file/d/1mMkhOI1DXd-ud6qo4VZluzPZHkhev44S/view?usp=sharing)
+- [App Screenshot 2](https://drive.google.com/file/d/1YjJqhSQRxsGfFYjSB8zc8PR4jfI5eGbb/view?usp=sharing)
+

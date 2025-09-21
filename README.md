@@ -26,7 +26,12 @@ Android application that fetches and displays countries data from a JSON API.
 
 ## API
 
-Data source: https://gist.githubusercontent.com/peymano-wmt/32dcb892b06648910ddd40406e37fdab/raw/db25946fd77c5873b0303b858e861ce724e0dcd0/countries.json
+Data source: Used source given in Instructions doc.
+
+## Screenshots
+
+![App Screenshot 1](screenshots/ss2.png)
+![App Screenshot 2](screenshots/ss1.png)
 
 ## Dependencies
 

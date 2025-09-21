@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="error_loading_countries">Failed to load countries. Pull to refresh or check your internet connection.</string>
+    <string name="loading">Loading countries...</string>
+</resources>

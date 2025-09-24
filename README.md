@@ -30,6 +30,7 @@ Android application that fetches and displays countries data from a JSON API.
 **Scrollable List** - RecyclerView with all countries  
 **Error Handling** - Network errors, timeouts, device rotation  
 **Clean Code** - MVVM architecture with ViewModel 
+
 **Edge Case Handling** - Handles missing JSON fields via Gson's default empty string assignment, preventing crashes
 
 ## API
